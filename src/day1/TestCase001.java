@@ -1,4 +1,4 @@
-package day0.day1;
+package day1;
 
 public class TestCase001 {
 
